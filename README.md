@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=pmujumdar27&text_color=D3D3D3&bg_color=0,000000,130F40&style=flat)
+
 <!--
 **pmujumdar27/pmujumdar27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
